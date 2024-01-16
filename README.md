@@ -2,8 +2,14 @@
 # MNREGA Data Analysis Project
 
 ## Overview
+## MNREGA-MAHATMA GANDHI NATIONAL RURAL EMPLOYMENT GUARENTEE ACT-2005
+ It is a social security measure that aims to provide employment and livelihood security in rural areas of India.Under this Act:
 
-The MNREGA Data Analysis project aims to analyze the Mahatma Gandhi National Rural Employment Guarantee Act (MNREGA) data to evaluate its impact on rural employment and livelihood security in India. This project provides insights into the distribution of workers, budget allocation, employment duration, and wage rates.
+ 1. 100 days of wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work.
+
+ 2.The wages are provided to workers which are determined by the government and vary from state to state.  
+
+ 3.Aimed at alleviating poverty, reducing rural distress, and promoting rural development by providing employment opportunities.
 
 ## Objectives
 
