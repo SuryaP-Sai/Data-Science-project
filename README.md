@@ -25,9 +25,3 @@ The MNREGA Data Analysis project aims to analyze the Mahatma Gandhi National Rur
 - Pandas library for data manipulation and analysis
 - Statistical methods for insights and trends
 
-## Setup and Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
